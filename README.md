@@ -1,5 +1,2 @@
 # Conectividad
-Pruebas de conexion
-Primer commit
-segundo commit
-# PRUEBA FINAL
+Objetivo logrado cambio efectuado
